@@ -64,6 +64,7 @@
 }
 .applyBtn:hover{
     background-color:#ff0134;
+    border: 0.5px solid black;
     box-shadow: 0 0 5px;
 }
 .applyBtn a{
