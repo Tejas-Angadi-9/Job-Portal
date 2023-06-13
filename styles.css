@@ -123,11 +123,11 @@
         font-size: 13px;
     }
     .para{
-        max-width: 350px;
+        width: 330px;
         margin-bottom: 0.5rem;
     }
     .para-text{
-        font-size: 15px;
+        font-size: 14px;
         font-weight: 500;
     }
 }
